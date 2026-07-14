@@ -1,2 +1,2 @@
-# skala_test
-260714 test repository
+# skala_git_test
+260714 test repository for git lecture
